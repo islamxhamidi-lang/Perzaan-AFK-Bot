@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ISYOMC.aternos.me",
-    "port": 33545,
-    "version": "26.21"
+    "ip": "dirtmcsmp.aternos.me",
+    "port": 250442,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
